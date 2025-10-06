@@ -20,6 +20,15 @@ A RESTful Task Management API built with Spring Boot that allows users to manage
 - Lombok (for reducing boilerplate code)
 - Maven (dependency management)
 
+**Frontend**
+
+- React 18 - UI library with hooks and functional components
+- Vite - Fast build tool and development server
+- Axios - HTTP client for API communication
+- React Router DOM - Client-side routing
+- Bootstrap 5 - Responsive CSS framework
+- React Context API - State management for authentication
+
 **Database**
 - MySQL 8.1.0*
 - JPA/Hibernate (ORM)
